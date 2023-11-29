@@ -1,13 +1,31 @@
 {
   "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "roadmap": "Our Roadmap",
+  "signing up": "How To Gain Access",
+  "getting started": "Getting Started",
+  "employee management": "Employees",
+  "shifts": "Shifts",
+  "reports": "Reports",
+  "dashboard customisation": "Dashboard Customisation",
+  "employee portal": "Employee Portal",
+  "alert system": "Alert System",
+  "mobile app": "Mobile App",
+  "spotlight": "Spotlight Usage",
+  "reporting bugs": "Reporting Bugs",
+  "security and privacy": "Security and Privacy",
+  "api": "API Docs",
   "about": {
     "title": "About",
     "type": "page"
   },
   "contact": {
-    "title": "Contact ↗",
+    "title": "Contact Us",
+    "type": "page",
+    "href": "https://support.clockingsystems.co.uk",
+    "newWindow": true
+  },
+  "Workethyc Website": {
+    "title": "Workethyc Website",
     "type": "page",
     "href": "https://support.clockingsystems.co.uk",
     "newWindow": true
