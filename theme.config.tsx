@@ -6,6 +6,12 @@ const config: DocsThemeConfig = {
   footer: {
     text: 'Workethyc Docs',
   },
+  sidebar: {
+    toggleButton: true,
+  },
+  editLink: {
+    text: '',
+  }
 }
 
 export default config
